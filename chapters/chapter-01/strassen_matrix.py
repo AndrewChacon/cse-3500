@@ -62,3 +62,8 @@ print("\nMatrix B:")
 print(np.array(B))
 print("\nResult of Matrix Multiplication:")
 print(np.array(result))
+
+
+
+
+# square matrix multiply
